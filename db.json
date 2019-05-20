@@ -1,0 +1,84 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Juan Dela Cruz",
+      "email": "jdcruz@gmail.com",
+      "phone": "0917-000-0000",
+      "jobTitle": "Unit Manager",
+      "department": "Pediatrics Ward"
+    },
+    {
+      "id": 2,
+      "name": "Annie Batungbakal",
+      "email": "discoqueen@gmail.com",
+      "phone": "0919-000-0000",
+      "jobTitle": "Staff Nurse",
+      "department": "Pediatrics Ward"
+    },
+    {
+      "id": 3,
+      "name": "Maria Clara de los Santos",
+      "email": "ibarra'sgirl@gmail.com",
+      "phone": "0943-000-0000",
+      "jobTitle": "Nursing Aide",
+      "department": "Female Surgical Ward"
+    },
+    {
+      "id": 4,
+      "name": "Padre Damaso",
+      "email": "revfr@gmail.com",
+      "phone": "0917-000-0000",
+      "jobTitle": "Clinical Head",
+      "department": "Nursing Service Office"
+    },
+    {
+      "id": 5,
+      "name": "Don Juan",
+      "email": "birdcatcher@gmail.com",
+      "phone": "0919-000-0000",
+      "jobTitle": "Staff Nurse",
+      "department": "Male Medical Ward"
+    },
+    {
+      "id": 6,
+      "name": "Crisostomo Ibarra",
+      "email": "simoun@gmail.com",
+      "phone": "0943-000-0000",
+      "jobTitle": "Staff Nurse",
+      "department": "Intensive Care Unit"
+    },
+    {
+      "id": 7,
+      "name": "Bernardo Carpio",
+      "email": "pinoyhercules@gmail.com",
+      "phone": "0917-000-0000",
+      "jobTitle": "Department Head",
+      "department": "Engineering and Maintenance"
+    },
+    {
+      "id": 8,
+      "name": "Daenery Stormborn Targaryen",
+      "email": "motherofdragons@gmail.com",
+      "phone": "0919-000-0000",
+      "jobTitle": "Chief Nursing Officer",
+      "department": "Nursing Service Office"
+    },
+    {
+      "id": 9,
+      "name": "Arya Stark",
+      "email": "nkslayer@gmail.com",
+      "phone": "0943-000-0000",
+      "jobTitle": "Dermatologic Surgeon",
+      "department": "Surgery Deparment"
+    },
+    {
+      "id": 10,
+      "name": "Dolores Abernathy",
+      "email": "rancher'sdaughter@gmail.com",
+      "phone": "0943-000-0000",
+      "jobTitle": "Staff Midwife",
+      "department": "Maternity Ward"
+    }
+  ]
+}
